@@ -13,4 +13,6 @@ nav_order: 1
 [**Læs hele CODE_OF_CONDUCT.md her**](CODE_OF_CONDUCT.md)
 
 ### 3. Licens
-[**Læs hele LICENSE.md her**](LICENSE.md) 
+[**Læs hele LICENSE.md her**](LICENSE.md)
+
+[**Læs hele MAINTAINERS.dm her**](MAINTAINERS.md)
